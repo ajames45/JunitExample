@@ -19,7 +19,7 @@ public class TestHelloWorld {
 	   public void testHelloEmpty() 
 	   {
 	      assertEquals(h.getName(),"");
-	      assertEquals(h.getMessage(),"Hello World!");
+	      assertEquals(h.getMessage(),"Hello!");
 	   }
 		
 	   @Test
